@@ -16,7 +16,7 @@ echo -e "${bblue} ░██ ██       ${plain} ░██ ██        ░█
 echo -e "${bblue} ░██ ░${plain}██       ░██ ░██       ░██ ░██          ░${red}██         ░██    ░░██${plain}"
 echo -e "${bblue} ░${plain}██  ░░██     ░██  ░░██     ░██  ░░${red}██        ░██          ░██ ██ ██${plain} "
 green "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" 
-white "甬哥Github项目  ：github.com/kkkyg"
+white "avotc Github项目  ：github.com/avotc"
 yellow "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 [[ $EUID -ne 0 ]] && su='sudo' 
 lsattr /etc/passwd /etc/shadow >/dev/null 2>&1
