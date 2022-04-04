@@ -1650,8 +1650,8 @@ setdns64(){
 menu() {
 	clear
 	echo "#############################################################"
-	echo -e "#                     ${RED}Xray一键安装脚本${PLAIN}                      #"
-	echo -e "# ${GREEN}作者${PLAIN}: avotcorg                                          #"
+	echo -e "#                     ${RED}Xray一键安装脚本${PLAIN}      #"
+	echo -e "# ${GREEN}作者${PLAIN}: avotcorg                         #"
 	echo "#############################################################"
 	echo -e "  "
 	echo -e "  ${GREEN}1.${PLAIN}   安装Xray-VMESS"
