@@ -5,4 +5,6 @@ wget -N https://raw.githubusercontents.com/avotcorg/vpsroot/main/root.sh && bash
 
 
 xray的一键脚本：
+
+
 bash <(curl -sL https://raw.githubusercontents.com/avotcorg/vpsroot/main/xray.sh)
